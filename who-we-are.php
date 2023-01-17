@@ -19,4 +19,6 @@
 <div class="container">
     <h3>Our Mission</h3>
     <p>We’re here to develop smart, sustainable EV charging solutions today for a cleaner, greener tomorrow.</p>
+
+
 </div>
