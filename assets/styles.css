@@ -1,0 +1,159 @@
+/* ========== COMMON ==========  */
+* {
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background-color: #ebebeb;
+}
+
+::selection {
+  color: #000;
+  background: #ffc300;
+}
+
+/* ========== NAVBAR ==========  */
+.navbar-brand {
+  max-width: 8% !important;
+}
+.navbar-brand img {
+  max-width: 100% !important;
+  width: 100%;
+  height: auto;
+}
+.nav-link {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+}
+
+/* ========== HOMEPAGE BANNER ==========  */
+.banner-container {
+  max-width: 100% !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner-container img {
+  width: 100%;
+  height: auto;
+}
+.homepage-section-1-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-bottom: 50px !important;
+  justify-content: center;
+  align-items: center;
+}
+.homepage-section-1-grid h2 {
+  font-weight: 500;
+  font-size: 55px;
+  margin: 0 !important;
+}
+.homepage-section-1-bottom-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  justify-content: space-around;
+}
+.homepage-grid-card {
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border: 1px solid #fff;
+}
+.homepage-grid-card:hover {
+  border: 1px solid #003566;
+  transition: 0.5s all ease-in-out;
+  border-radius: 10px;
+}
+.homepage-grid-card h3 {
+  font-size: 24px;
+}
+.homepage-grid-icon-container {
+  background-color: #001d3d;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.homepage-grid-icon-container ion-icon {
+  color: #fff;
+  font-size: 20px !important;
+}
+.hr-line {
+  width: 100%;
+  border-bottom: 1px solid #e7e7e7e7;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* ========== WHO WE ARE ==========  */
+.who-we-are-section {
+  margin-bottom: 30px;
+}
+.who-we-are-section h3 {
+  font-size: 18px;
+  color: #777;
+}
+.who-we-are-section p {
+  margin: 0;
+  font-size: 40px;
+  line-height: 40px;
+}
+.who-we-are-txt {
+  font-size: 16px;
+  color: #777;
+}
+.who-we-are-banner-container {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.who-we-are-banner-container img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* ========== DEVELOPER FOOTER ==========  */
+.developer-footer {
+  background-color: #000814;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.developer-footer p {
+  color: #fff;
+  margin: 0;
+}
+.developer-footer a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.developer-footer a:hover {
+  color: #ffc300;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 768px) {
+  /* ========== NAVBAR ==========  */
+  .navbar-brand {
+    max-width: 15% !important;
+  }
+  .navbar-brand img {
+    max-width: 100% !important;
+    width: 100%;
+    height: auto;
+  }
+}
