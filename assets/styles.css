@@ -24,6 +24,12 @@ body {
   font-size: 16px !important;
   font-weight: 500 !important;
 }
+.right-navbar-brand {
+  max-width: 10% !important;
+}
+.right-navbar-brand img {
+  width: 100%;
+}
 
 /* ========== HOMEPAGE BANNER ==========  */
 .banner-container {
@@ -36,7 +42,19 @@ body {
   width: 100%;
   height: auto;
 }
-.homepage-section-1-grid {
+
+/* ========== HOMEPAGE BANNER SECTION 1 ==========  */
+.hompage-section-1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.hompage-section-1 h1 {
+  font-weight: 500;
+  font-size: 50px;
+}
+
+/* ========== HOMEPAGE BANNER SECTION 2 ==========  */
+.homepage-section-2-grid {
   display: flex;
   flex-wrap: wrap;
   margin-top: 50px;
@@ -44,12 +62,12 @@ body {
   justify-content: center;
   align-items: center;
 }
-.homepage-section-1-grid h2 {
+.homepage-section-2-grid h2 {
   font-weight: 500;
   font-size: 55px;
   margin: 0 !important;
 }
-.homepage-section-1-bottom-grid {
+.homepage-section-2-bottom-grid {
   display: flex;
   flex-wrap: wrap;
   margin-top: 80px;
