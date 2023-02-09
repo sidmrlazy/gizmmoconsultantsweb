@@ -1,3 +1,17 @@
+<div class="footer">
+    <ul class="footer-menu">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Who we are</a></li>
+        <li><a href="#">What we do</a></li>
+        <li><a href="#">Connect with us</a></li>
+    </ul>
+    <ul class="footer-menu">
+        <li><a href="#">Disclaimer</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Terms & Conditions</a></li>
+    </ul>
+</div>
+
 <div class="developer-footer">
     <p>&#169; Gizmmo Consultants | Designed & Developed by <a href="https://onlynus.com" target="_blank"
             rel="noopener noreferrer"> Onlyn</a></p>

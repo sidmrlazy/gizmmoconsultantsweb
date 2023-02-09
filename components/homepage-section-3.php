@@ -1,24 +1,17 @@
-<div id="who-we-are" class="container">
+<div class="container mb-5">
     <div class="who-we-are-section">
         <h3>EXICOM</h3>
         <p>Powering the shift to electric with best-in-class charging</p>
     </div>
 
     <div class="who-we-are-banner-container">
-        <img src="assets/images/who-we-are-banner.svg" alt="">
+        <img src="assets/images/who-we-are-banner.webp" alt="">
     </div>
 
     <p class="who-we-are-txt">
-        Exicom Power Systems develops industry-leading EV charging solutions for homes, workplaces, and public spaces.
-        Since our founding in 1994, we’ve deployed more than 6,000 AC and DC chargers across India and Southeast Asia,
-        and we take pride in our chargers’ ability to work in the harshest environmental and electrical conditions. Our
-        aim is to fully integrate innovative EV charging solutions into modern daily life.
+        Founded in 1994, Exicom Tele Systems Pvt. Ltd. is a company which operates in 3 key business areas around
+        vertical markets of telecom, storage and green mobility. We are a vertically integrated company with over 20
+        years of experience in designing, engineering and manufacturing products and solutions for needs of today and
+        future.
     </p>
-</div>
-
-<div class="container">
-    <h3>Our Mission</h3>
-    <p>We’re here to develop smart, sustainable EV charging solutions today for a cleaner, greener tomorrow.</p>
-
-
 </div>
