@@ -4,7 +4,7 @@
     </video>
 
     <div class="content">
-        <h1>Delivering Future of Mobility</h1>
+        <h1>Delivering the Future of Mobility</h1>
         <p>We are powering next generation mobility by developing innovative EV charging infrastructure and Li-ion
             batteries for all segments of vehicles</p>
     </div>
