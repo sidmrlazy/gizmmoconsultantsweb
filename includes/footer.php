@@ -16,6 +16,15 @@
             <p>Email</p>
             <a href="mailto:support@gizmmoconsultants.com">support@gizmmoconsultants.com</a>
         </div>
+
+        <div class="footer-menu-social-icons">
+            <a href="http://facebook.com" target="_blank" rel="noopener noreferrer">
+                <ion-icon name="logo-facebook"></ion-icon>
+            </a>
+            <a href="http://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <ion-icon name="logo-linkedin"></ion-icon>
+            </a>
+        </div>
     </div>
     <ul class="footer-menu">
         <li><a href="index.php">Home</a></li>
