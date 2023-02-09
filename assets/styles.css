@@ -72,7 +72,7 @@ body {
   justify-content: center;
 }
 .hompage-section-1-img img {
-  width: 50%;
+  width: 70%;
   height: auto;
   border-radius: 10px;
 }
@@ -101,15 +101,23 @@ body {
   border-radius: 10px;
   transition: 0.3s all ease-in-out;
 }
-.hompage-section-1-inner-card h3,
+.hompage-section-1-inner-card h3 {
+  text-align: center !important;
+  margin: 0 !important;
+}
 .hompage-section-1-inner-card p {
   text-align: center !important;
   margin: 0 !important;
+  margin-bottom: 20px !important;
 }
 .homepage-section-1-btn {
   text-decoration: none;
   color: #003566;
   font-size: 20px;
+  border: 2px solid #003566;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 20px;
 }
 
 /* ========== HOMEPAGE SECTION 2 ==========  */
@@ -226,13 +234,46 @@ body {
   border-radius: 10px;
 }
 
-/* ========== WHO WE ARE SECTION 1==========  */
+/* ========== WHO WE ARE SECTION 1 ==========  */
 .who-we-are-section-1 {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 50px;
   margin-bottom: 50px;
+}
+.who-we-are-section-1-img-container {
+  display: flex;
+  max-width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-1-img-container img {
+  width: 100%;
+  border-radius: 25px;
+}
+
+/* ========== WHO WE ARE SECTION 2 ==========  */
+.who-we-are-section-2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.who-we-are-section-2-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 150px;
+  flex: 1;
+}
+.who-we-are-section-2-card h3 {
+  margin: 0;
+}
+.who-we-are-section-2-card ion-icon {
+  color: #ffc300;
+  margin-right: 10px;
+}
+.who-we-are-section-2-card img {
+  width: 50%;
 }
 
 /* ========== FOOTER ==========  */
@@ -394,6 +435,55 @@ body {
   .hompage-section-1-img img {
     width: 80%;
     margin-bottom: 20px;
+  }
+
+  /* ========== SECTION BANNER ==========  */
+  .section-banner {
+    height: 200px !important;
+  }
+
+  /* ========== WHO WE ARE SECTION 1==========  */
+  .who-we-are-section-1 {
+    flex-direction: column;
+  }
+  .who-we-are-section-1 h2 {
+    text-align: center;
+  }
+  .who-we-are-section-1 p {
+    text-align: center;
+  }
+  .who-we-are-section-1-img-container {
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .who-we-are-section-1-img-container img {
+    width: 100%;
+    border-radius: 25px;
+  }
+  /* ========== WHO WE ARE SECTION 2 ==========  */
+  .who-we-are-section-2 {
+    flex-direction: column;
+  }
+  .who-we-are-section-2-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    margin-bottom: 150px;
+    flex: 1;
+  }
+  .who-we-are-section-2-card h3 {
+    margin: 0;
+  }
+  .who-we-are-section-2-card ion-icon {
+    color: #ffc300;
+    margin-right: 10px;
+  }
+  .who-we-are-section-2-card img {
+    width: 50%;
+    margin-bottom: 30px;
   }
 
   /* ========== FOOTER ==========  */
