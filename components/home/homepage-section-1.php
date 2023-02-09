@@ -4,7 +4,7 @@
 
     </div>
     <div class="col-md-6">
-        <h1>Who we are</h1>
+        <h2>Who we are</h2>
         <p>At Gizmmo Consultants, we offer a complete suite of turnkey sustainable solutions - for your commercial and
             residential needs - under one roof</p>
 
@@ -18,15 +18,15 @@
 
 <div class="container hompage-section-1 col-md-6">
     <div class="col-md-4 hompage-section-1-inner-card">
-        <h2>MISSION</h2>
-        <p>To accelerate India's transition towards greener future</p>
+        <h3>MISSION</h2>
+            <p>To accelerate India's transition towards greener future</p>
     </div>
     <div class="col-md-4 hompage-section-1-inner-card">
-        <h2>VISION</h2>
+        <h3>VISION</h3>
         <p>Commitment to Sustainability creating a green and renewable energy lifestyle.</p>
     </div>
     <div class="col-md-4 hompage-section-1-inner-card">
-        <h2>VALUES</h2>
+        <h3>VALUES</h3>
         <p>We are Futuristic, Eco-Warriors, Transparent and Innovative</p>
     </div>
 </div>

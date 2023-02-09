@@ -9,7 +9,7 @@
     <meta name="description" content="">
 
 
-    <title>Gizmmo Consultants | Leading EV Chargers Suppliers</title>
+    <title><?php echo $title; ?></title>
 
     <!-- ========== STYLESHEET ========== -->
     <link rel="stylesheet" href="assets/styles.css">

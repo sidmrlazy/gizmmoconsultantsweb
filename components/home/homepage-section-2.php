@@ -1,7 +1,7 @@
 <div class="container">
     <div class="homepage-section-2-grid">
         <div class="col-md-6">
-            <h2>Take total control over your charging</h2>
+            <h3>Take total control over your charging</h3>
         </div>
 
         <div class="col-md-6">
