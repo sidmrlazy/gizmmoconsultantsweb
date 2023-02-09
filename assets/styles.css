@@ -45,12 +45,51 @@ body {
 
 /* ========== HOMEPAGE BANNER SECTION 1 ==========  */
 .hompage-section-1 {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hompage-section-1-img {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.hompage-section-1-img img {
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
 }
 .hompage-section-1 h1 {
   font-weight: 500;
   font-size: 50px;
+}
+.hompage-section-1 p {
+  font-size: 18px;
+  text-align: justify;
+}
+.homepage-section-1-mvv {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.hompage-section-1-inner-card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  margin: 3px;
+  height: 200px;
+}
+.hompage-section-1-inner-card:hover {
+  border: 1px solid #e7e7e7e7;
+  border-radius: 10px;
+  transition: 0.3s all ease-in-out;
+}
+.hompage-section-1-inner-card h2,
+.hompage-section-1-inner-card p {
+  text-align: center;
+  margin: 0 !important;
 }
 
 /* ========== HOMEPAGE BANNER SECTION 2 ==========  */

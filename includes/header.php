@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="assets/styles.css">
 
     <!-- ========== FAVICON ========== -->
-    <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/favicon.webp" type="image/x-icon">
 
     <!-- ========== GOOGLE FONTS ========== -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
