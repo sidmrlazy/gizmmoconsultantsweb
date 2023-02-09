@@ -3,10 +3,9 @@
     <hr>
     <div class="who-we-are-section-3-wrapper">
         <div class="who-we-are-section-3-card">
-
             <h3>Workplace</h3>
             <p>Offer employees hassle-free charging at work</p>
-            <a href="#">Know More</a>
+            <a href="what-we-do.php#section-1">Know More</a>
         </div>
         <div class="who-we-are-section-3-card">
             <h3>Fleets</h3>
@@ -21,18 +20,18 @@
         </div>
         <div class="who-we-are-section-3-card">
             <h3>CPOs</h3>
-            <p>Guarantee dependability and enjoy seamless compatibility</p>
+            <p>Guarantee dependability & enjoy seamless compatibility</p>
             <a href="#">Know More</a>
         </div>
         <div class="who-we-are-section-3-card">
-            <h3>Workplace</h3>
-            <p>Offer employees hassle-free charging at work</p>
+            <h3>Retail & Hospitality</h3>
+            <p>Attract EV drivers with convenient charging</p>
             <a href="#">Know More</a>
         </div>
 
         <div class="who-we-are-section-3-card">
-            <h3>Workplace</h3>
-            <p>Offer employees hassle-free charging at work</p>
+            <h3>Heavy Duty Vehicles</h3>
+            <p>Powerful charging solutions for heavy loads</p>
             <a href="#">Know More</a>
         </div>
     </div>

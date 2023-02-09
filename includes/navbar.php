@@ -19,6 +19,9 @@
                     <a class="nav-link" href="what-we-do.php">What we do</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="#">Our Product Range</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="#">Connect With Us</a>
                 </li>
             </ul>

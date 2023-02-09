@@ -281,6 +281,8 @@ body {
 .who-we-are-section-2-card img {
   width: 50%;
 }
+
+/* ========== WHO WE ARE SECTION 3 ==========  */
 .who-we-are-section-3 {
   margin-top: 100px;
   margin-bottom: 100px;
@@ -290,6 +292,7 @@ body {
   font-size: 30px;
   margin: 0;
   text-align: center;
+  color: #003566;
 }
 .who-we-are-section-3-wrapper {
   display: flex;
@@ -302,7 +305,7 @@ body {
   border-radius: 10px;
   margin: 5px;
   height: 300px;
-  padding: 10px;
+  padding: 10px !important;
 }
 .who-we-are-section-3-card:hover {
   border: 1px solid #003566;
@@ -327,7 +330,23 @@ body {
   color: #003566;
 }
 
-/* ========== WHO WE ARE SECTION 3 ==========  */
+/* ========== WHAT WE DO SECTION 1 ==========  */
+.what-we-do-section-1 {
+  margin-top: 50px;
+}
+.what-we-do-section-1 h2 {
+  color: #001d3d;
+  font-size: 44px;
+}
+.what-we-do-section-1 span {
+  color: #003566;
+  font-weight: bold;
+}
+
+/* ========== WHAT WE DO SECTION 2 ==========  */
+.what-we-do-section-2 {
+  margin-top: 100px;
+}
 
 /* ========== FOOTER ==========  */
 .footer {
