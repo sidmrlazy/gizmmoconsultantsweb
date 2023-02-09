@@ -201,6 +201,12 @@ body {
   background-size: cover;
   width: 100%;
 }
+.section-banner#what-we-do {
+  background-image: url("../assets/images/section-banner-3.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
 .section-banner h1 {
   color: #fff;
   font-weight: 600;
@@ -275,6 +281,53 @@ body {
 .who-we-are-section-2-card img {
   width: 50%;
 }
+.who-we-are-section-3 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.who-we-are-section-3 h2 {
+  font-weight: 600;
+  font-size: 30px;
+  margin: 0;
+  text-align: center;
+}
+.who-we-are-section-3-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 100px;
+}
+.who-we-are-section-3-card {
+  flex: 1 400px;
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  margin: 5px;
+  height: 300px;
+  padding: 10px;
+}
+.who-we-are-section-3-card:hover {
+  border: 1px solid #003566;
+  transition: 0.3s all ease-in-out;
+}
+.who-we-are-section-3-card h2 {
+  margin: 0 !important;
+}
+.who-we-are-section-3-card p {
+  font-size: 14px;
+  margin-bottom: 150px;
+}
+.who-we-are-section-3-card h3 {
+  margin: 0;
+}
+.who-we-are-section-3-card a {
+  text-decoration: none;
+  color: #777;
+}
+.who-we-are-section-3-card a:hover {
+  text-decoration: none;
+  color: #003566;
+}
+
+/* ========== WHO WE ARE SECTION 3 ==========  */
 
 /* ========== FOOTER ==========  */
 .footer {

@@ -29,7 +29,7 @@
     <ul class="footer-menu">
         <li><a href="index.php">Home</a></li>
         <li><a href="who-we-are.php">Who we are</a></li>
-        <li><a href="#">What we do</a></li>
+        <li><a href="what-we-do.php">What we do</a></li>
         <li><a href="#">Connect with us</a></li>
     </ul>
     <ul class="footer-menu">

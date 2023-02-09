@@ -16,7 +16,7 @@
                     <a class="nav-link" href="who-we-are.php">Who we are</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">What we do</a>
+                    <a class="nav-link" href="what-we-do.php">What we do</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Connect With Us</a>
