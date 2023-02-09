@@ -106,6 +106,11 @@ body {
   text-align: center !important;
   margin: 0 !important;
 }
+.homepage-section-1-btn {
+  text-decoration: none;
+  color: #003566;
+  font-size: 20px;
+}
 
 /* ========== HOMEPAGE SECTION 2 ==========  */
 .homepage-section-2-grid {
@@ -238,22 +243,70 @@ body {
   justify-content: center;
   align-items: flex-start;
   padding: 50px;
-  background-color: #ffc300;
+  background-color: #fff;
 }
 .footer-menu {
   flex: 1;
 }
-.footer li {
-  list-style: none;
-  margin-bottom: 15px;
+.footer-menu img {
+  width: 50%;
+  margin-bottom: 50px;
 }
-.footer a {
+.footer-menu li {
+  list-style: none;
+  margin-bottom: 25px !important;
+}
+.footer-menu a {
   text-decoration: none;
   color: #003566;
   font-size: 18px;
 }
-.footer a:hover {
+.footer-menu a:hover {
   font-weight: 500;
+  transition: 0.3s all ease-in-out;
+}
+.footer-menu-inner-content {
+  margin-bottom: 30px;
+}
+.footer-menu-inner-content p {
+  color: #000;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0;
+}
+.footer-menu-inner-content a {
+  text-decoration: none;
+}
+.footer-news-letter {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffc300;
+}
+.footer-news-letter h4 {
+  text-align: center;
+  font-weight: 600;
+  margin: 0;
+}
+.footer-news-letter p {
+  text-align: center;
+  font-weight: 300;
+  margin: 0;
+  margin-bottom: 30px;
+  line-height: 20px;
+  font-size: 14px;
+}
+.footer-signup-btn {
+  border: 1px solid #003566;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  background-color: #ffc300;
+  font-weight: 500;
+}
+.footer-signup-btn:hover {
+  background-color: #003566;
+  color: #fff;
   transition: 0.3s all ease-in-out;
 }
 
@@ -336,5 +389,46 @@ body {
   .hompage-section-1-img img {
     width: 80%;
     margin-bottom: 20px;
+  }
+
+  /* ========== FOOTER ==========  */
+  .footer {
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 20px;
+  }
+  .footer-menu {
+    flex: 1;
+    margin-bottom: 50px;
+  }
+  .footer-menu img {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  .footer-menu li {
+    list-style: none;
+    margin-bottom: 25px !important;
+  }
+  .footer-menu a {
+    text-decoration: none;
+    color: #003566;
+    font-size: 18px;
+  }
+  .footer-menu a:hover {
+    font-weight: 500;
+    transition: 0.3s all ease-in-out;
+  }
+  .footer-menu-inner-content {
+    margin-bottom: 30px;
+  }
+  .footer-menu-inner-content p {
+    color: #000;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+  }
+  .footer-menu-inner-content a {
+    text-decoration: none;
   }
 }

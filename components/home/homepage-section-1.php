@@ -13,6 +13,8 @@
             infrastructure we
             delivery a range of proven, bankable solutions to address the global need for better, more
             enviornmentally-friendly alternatives.</p>
+
+        <a href="who-we-are.php" class="homepage-section-1-btn">Read More</a>
     </div>
 </div>
 
