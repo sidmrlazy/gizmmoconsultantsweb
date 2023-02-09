@@ -1,6 +1,7 @@
 <div class="container hompage-section-1">
     <div class="col-md-6 hompage-section-1-img">
         <img src="assets/images/element-1.webp" alt="">
+
     </div>
     <div class="col-md-6">
         <h1>Who we are</h1>

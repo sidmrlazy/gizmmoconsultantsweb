@@ -15,6 +15,7 @@ body {
 .navbar {
   background-color: #fff !important;
   padding: 20px !important;
+  z-index: 999;
 }
 .navbar-brand {
   max-width: 8% !important;
@@ -42,9 +43,19 @@ body {
   justify-content: center;
   align-items: center;
 }
-.banner-container img {
+.banner-container video {
   width: 100%;
   height: auto;
+}
+.content {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 50%;
+  padding: 20px;
+  margin: 30px;
 }
 
 /* ========== HOMEPAGE BANNER SECTION 1 ==========  */
@@ -249,6 +260,33 @@ body {
   .navbar-brand img {
     width: 100%;
     height: auto;
+  }
+  /* ========== HOMEPAGE BANNER ==========  */
+  .banner-container video {
+    width: 100%;
+    height: auto;
+  }
+  .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 80%;
+    height: fit-content;
+    padding: 20px;
+    margin-top: 100px;
+    border-radius: 5px;
+  }
+  .content h1 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0;
+  }
+  .content p {
+    font-size: 10px !important;
+    margin: 0;
   }
 
   /* ========== HOMEPAGE BANNER SECTION 1 ==========  */
