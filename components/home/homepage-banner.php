@@ -1,3 +1,11 @@
+<!-- <div class="modal fade" id="homepageModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <p>Franchisee Opportunity</p>
+        </div>
+    </div>
+</div> -->
+
 <div class="banner-container">
     <video autoplay muted loop id="myVideo">
         <source src="assets/videos/homepage-video.mp4" type="video/mp4">

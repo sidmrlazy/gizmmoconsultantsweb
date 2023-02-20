@@ -11,6 +11,12 @@ body {
   background: #ffc300;
 }
 
+/* ========== HOMEPAGE MODAL ==========  */
+.modal-content {
+  background-color: #00000000 !important;
+  border: 0 !important;
+}
+
 /* ========== NAVBAR ==========  */
 .navbar {
   background-color: #fff !important;
@@ -339,8 +345,12 @@ body {
   font-size: 44px;
 }
 .what-we-do-section-1 span {
-  color: #003566;
+  color: #003566 !important;
   font-weight: bold;
+}
+.accordion-button {
+  background-color: #001d3d !important;
+  color: #fff !important;
 }
 
 /* ========== WHAT WE DO SECTION 2 ==========  */
