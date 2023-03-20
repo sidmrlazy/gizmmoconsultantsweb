@@ -56,15 +56,13 @@
 </div>
 
 <div class="developer-footer">
-    <p>&#169; Gizmmo Consultants | Designed & Developed by <a href="https://onlynus.com" target="_blank"
-            rel="noopener noreferrer"> Onlyn</a></p>
+    <p>&#169; Gizmmo Consultants | Designed & Developed by <a href="https://onlynus.com" target="_blank"> Onlyn</a></p>
 </div>
 
 <script src="assets/custom.js"></script>
 
 <!-- ========= BOOTSTRAP ========= -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
 </script>
 
 <!-- ========= IONICONS ========= -->
